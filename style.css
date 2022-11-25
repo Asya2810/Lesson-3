@@ -1,0 +1,66 @@
+header {
+    background: linear-gradient(#FFFAFA, #FAEB07);
+}
+
+ul {
+    list-style: none;
+    margin:0;
+    padding: 20px;
+}
+a {
+    font-size: 15px;
+    padding: 20px;
+    color: #293133;
+    text-decoration: none;
+}
+
+a :visited {
+    color: blue
+  }
+  a:hover {
+    color:rgb(139, 199, 105);
+  }
+  
+  body {
+   background-color: rgb(97, 161, 172); 
+   font-weight: 900;
+   font-size: 14px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font: 14 px Verdana, sans-serif; 
+}
+h2 {
+    color: aliceblue;
+    background-color: rgb(85, 79, 160);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 15 px;
+}
+h3 {color: aliceblue;
+}
+div{
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 15px;
+}
+
+li
+    {display: inline;
+
+}
+.gallery {
+    width: 200 px;
+}
+
+.follow {
+    background-color:black ;
+}
+#notcircle-img {
+    border-radius: 0%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
